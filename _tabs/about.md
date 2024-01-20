@@ -4,5 +4,5 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# 소개
+Apache Spark, Kafka 등을 이용하여 On-premise 환경에서 데이터 파이프라인 플랫폼 개발을 리드하고 있습니다.
