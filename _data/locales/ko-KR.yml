@@ -30,7 +30,7 @@ panel:
 copyright:
   # Shown at the bottom of the post
   license:
-    template: 이 기사는 저작권자의 :LICENSE_NAME 라이센스를 따릅니다.
+    template: 이 원고의 저작권은 모두 저자(블로그 주인)에게 종속되며, 허가없는 재배포와 재생산을 금합니다.
     name: CC BY 4.0
     link: https://creativecommons.org/licenses/by/4.0/
 
